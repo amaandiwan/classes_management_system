@@ -7,7 +7,7 @@
 **First You need to add all jar file to netbeans libaray classes-management-system/jar TO LIBRARY BEFORE RUNNING JAVA NETBEANS.IF YOU WILL NOT ADD THIS YOU FACE ERRORS**
 
 ## SPLASHSCREEN
-![](images/splash.PNG)
+![](images/splash.png)
 
 ## SIGN IN PANE
 ![](images/signin.PNG)
