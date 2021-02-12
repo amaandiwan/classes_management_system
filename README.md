@@ -43,16 +43,16 @@
 ![](images/12.png)
 
 ## FEES PANE
-![](images/13.png)
+![](images/13.jpg)
 
 ## GENERATE RECEIPT PANE
-![](images/14.png)
+![](images/14.jpg)
 
 ## FEE RECEIPT PDF
-![](images/15.png)
+![](images/15.jpg)
 
 ## REPORT EXCEL SHEET
-![](images/16.png)
+![](images/16.jpg)
 
 ## DATABASE FOR USERNAME AND PASSWORD
 USERNAME : amaan 
