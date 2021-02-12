@@ -10,49 +10,49 @@
 ![](images/splash.png)
 
 ## SIGN IN PANE
-![](images/signin.PNG)
+![](images/signin.png)
 
 ## SIGN UP PANE
-![](images/register.PNG)
+![](images/register.png)
 
 ## Forget Password PANE
-![](images/forget.PNG)
+![](images/forget.png)
 
 ## DASHBOARD PANE
-![](images/5.PNG)
+![](images/5.png)
 
 ## STUDENT PANE
-![](images/6.PNG)
+![](images/6.png)
 
 ## UPDATE STUDENT PANE
-![](images/7.PNG)
+![](images/7.png)
 
 ## TEACHER PANE
-![](images/8.PNG)
+![](images/8.png)
 
 ## UPDATE TEACHER PANE
-![](images/9.PNG)
+![](images/9.png)
 
 ## SUBJECT PANE
-![](images/10.PNG)
+![](images/10.png)
 
 ## UPDATE SUBJECT PANE
-![](images/11.PNG)
+![](images/11.png)
 
 ## REPORT PANE
-![](images/12.PNG)
+![](images/12.png)
 
 ## FEES PANE
-![](images/13.PNG)
+![](images/13.png)
 
 ## GENERATE RECEIPT PANE
-![](images/14.PNG)
+![](images/14.png)
 
 ## FEE RECEIPT PDF
-![](images/15.PNG)
+![](images/15.png)
 
 ## REPORT EXCEL SHEET
-![](images/16.PNG)
+![](images/16.png)
 
 ## DATABASE FOR USERNAME AND PASSWORD
 USERNAME : amaan 
